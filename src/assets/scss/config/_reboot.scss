@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+a {
+  color: initial;
+  text-decoration: none;
+}
+
+input:focus {
+  outline: none;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+}
