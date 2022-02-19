@@ -13,6 +13,7 @@
           class="planet-btn-img is-btn"
           :src="require('@/assets/img/bg/mint.png')"
           alt=""
+          @click="redirect"
         >
         <div class="planet-btn-text">
           只有白名單才能鑄造
@@ -50,7 +51,7 @@
     align-items: center;
     padding-top: 80px;
     overflow: hidden;
-    background: url('~@/assets/img/bg/bg.png');
+    background: url('~@/assets/img/bg/bg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -167,3 +168,25 @@
     }
   }
 </style>
+
+<script>
+// import mint from '@/assets/js/nft/mint.js';
+import Swal from 'sweetalert2';
+
+export default {
+  setup() {
+    const redirect = () => {
+      Swal.fire({
+        icon: 'warning',
+        title: '尚未開放',
+      });
+      // mint.Mint();
+    };
+
+    return {
+      redirect,
+    };
+  },
+};
+
+</script>

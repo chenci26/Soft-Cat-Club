@@ -16,6 +16,9 @@
       >
       <div class="nft-intro">
         <div class="c-title">
+          &emsp;
+        </div>
+        <div class="c-title">
           【關於Soft Cat Club】
         </div>
         <div class="nft-intro-info">

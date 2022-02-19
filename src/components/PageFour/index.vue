@@ -5,7 +5,10 @@
         【獲得方式】
       </div>
       <div class="c-info">
-        ·王狗官方及貓逝FB、IG粉專會發布白名單表單填寫及Soft Cat Club抽獎活動，其餘管道皆是騙人的。
+        ·王狗官方及貓逝FB、IG粉專會發佈白名單表單填寫及Soft Cat Club抽獎活動。
+      </div>
+      <div class="c-info">
+        ·白單合作方：YOLO Cat Club、Onion Meta Official、Burn_x_ASH、Superstar_tiger，其餘管道皆是騙人的。
       </div>
       <div class="c-info">
         ·白名單是指保障您購買的名額但非免費也無任何折扣。
@@ -18,7 +21,7 @@
       <div class="c-info">
         ‧購買流程：
         <a
-          href="http://google.com"
+          href="https://debonair-nail-2b2.notion.site/Soft-Cat-Club-NFT-d2349ae869bd4b97b0aa6a2a5cef6045"
           target="_blank"
         >連結</a>
       </div>
@@ -35,7 +38,7 @@
         ‧購買網址：待公佈
       </div>
       <div class="c-info">
-        ‧公開發售價格：0.035 ETH
+        ‧公開發售價格：<span style="color:orange;">0.035</span> ETH
       </div>
     </div>
     <div class="intro">
@@ -43,10 +46,10 @@
         【發售時間】
       </div>
       <div class="c-info">
-        ·白名單發售時間為2022年1月22日17時00分(GMT+8)
+        ·白名單發售時間為2022年1月23日14時00分(GMT+8)
       </div>
       <div class="c-info">
-        ·只有此頁面釋放的消息才是正確的，其他一律都是詐騙，我們不會在月日前有其他的公開發售。
+        ·只有此頁面釋放的消息才是正確的，其他一律都是詐騙，我們不會在1月23日前有其他的公開發售。
       </div>
     </div>
   </div>
